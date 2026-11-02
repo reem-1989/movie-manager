@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+venv/
+.venv/
+
+# Your personal movie data (remove this line if you want to commit it)
+movies_file.json
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
